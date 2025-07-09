@@ -1,3 +1,9 @@
 h1 {
     color: green;
+    
+}
+
+body {
+    position: relative;
+    background-color: #EDFAEE;
 }
